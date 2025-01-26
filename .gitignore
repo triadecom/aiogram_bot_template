@@ -7,6 +7,7 @@ data/*
 # Environment
 .venv/
 .env
+.service-note
 venv/
 docker-compose.yml
 uv.lock

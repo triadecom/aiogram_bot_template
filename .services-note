@@ -1,0 +1,16 @@
+POSTGRESQL17 SERVER
+
+postgresql://rubydag59:npg_m4xf2sDEZBbS@ep-odd-morning-a2tf9zj6-pooler.eu-central-1.aws.neon.tech/tgnodebotdb?sslmode=require
+PGHOST='ep-odd-morning-a2tf9zj6-pooler.eu-central-1.aws.neon.tech'
+PGDATABASE='tgnodebotdb'
+PGUSER='rubydag59'
+PGPASSWORD='npg_m4xf2sDEZBbS'
+
+REDIS SERVER
+
+redis-cli --tls -u redis://default:AeWNAAIjcDE4MWVkYzkwZDNhMDA0NTdmODZhZmQ0ODY0ODMyNTU2OXAxMA@choice-fish-58765.upstash.io:6379
+
+host='choice-fish-58765.upstash.io',
+port=6379,
+password='AeWNAAIjcDE4MWVkYzkwZDNhMDA0NTdmODZhZmQ0ODY0ODMyNTU2OXAxMA',
+ssl=True
